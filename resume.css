@@ -1,0 +1,38 @@
+body {
+    background:#1000;
+    font-family:fantasy;
+    margin:100px;
+}
+
+#topname{
+    background-color:black;
+    color:white;
+    padding:55px;
+    text-align:center;
+    font-size:45px;
+    font-family:concolas;
+}
+
+#name {
+    font-weight:900;
+    font-size:15px;
+    font-family:consolas;
+}
+
+.title{
+    text-decoration:underline;
+    font-weight:bold;
+    font-size:18px;
+}
+
+p1 {
+    font-family:monospace
+}
+
+.location {
+    float:right;
+}
+
+.date   {
+    float:right;
+}

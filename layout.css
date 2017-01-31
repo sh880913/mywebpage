@@ -1,0 +1,30 @@
+body {margin:0;}
+
+header{background: #999;
+    color:white; 
+    padding:5px 15px;
+    margin:0;
+
+}
+
+
+header h1{margin:0; 
+    display:inline;}
+
+
+nav ul{display:inline;}
+
+
+nav {margin:0; 
+    padding: 0 0 0 35px; 
+    display: inline;}
+
+
+nav ul li{list-style-type: none; 
+    display:inline-block; 
+    color:blueviolet;} 
+
+
+nav ul li a{color:blue; 
+    padding:5px 20px 10px 10px}
+
